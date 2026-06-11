@@ -1,5 +1,9 @@
-# primeiro-projeto
+# **Primeiro Projeto**
 
-## Aula de Lógica de Progamação
+## ***Aula de Lógica de Progamação***
 
-- Item de Lista
+- **Itens da Lista**
+    - Carne
+    - Arroz
+    - Feijão
+    - Macarrão
