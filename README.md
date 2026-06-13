@@ -7,3 +7,8 @@
     - Arroz
     - Feijão
     - Macarrão
+    
+- **Itens de Limpeza**
+    - Sabão
+    - Detergente
+    - 
