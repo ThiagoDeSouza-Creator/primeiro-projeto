@@ -1,0 +1,1 @@
+input("Se for par")
